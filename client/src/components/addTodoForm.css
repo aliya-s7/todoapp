@@ -1,9 +1,0 @@
-.add-todo_error-message {
-  font-size: 12px;
-  color: red;
-  display: none;
-}
-
-input:invalid ~ .add-todo_error-message {
-  display: block;
-}
